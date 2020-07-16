@@ -5,5 +5,5 @@ Python script 'centreline_extraction' and 'plotting function' should be ready to
 Python script regarding feature tracking algorytm contain some depreciated packages and have to be adjusted before it can be used on other devices.
 
 Also, glacier shapefiles and centrelines used for this thesis can be found, together with the supporting velocity and other datafields.
-At last, an
+At last, the file 'statistics_3km2' contains all glacier statistics following RGIID naming conventions. Most statistics are from RGI 6.0.
 
